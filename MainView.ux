@@ -1,0 +1,12 @@
+<App>
+	<ClientPanel Background="#D5D5D5">
+		<Panel Height="50" Color="#000" Dock="Bottom" Alignment="Bottom">
+				<NativeViewHost>
+					<Google.DFPBanner Id="/6499/example/banner" />
+				</NativeViewHost>
+			</Panel>
+		<Panel Color="#fff" Background="#c0c0c0" LayoutRole="Standard" TransformOrigin="Anchor" Alignment="Top" Padding="20, 20, 20, 20">
+			<Text Value="Hello Banner!" Color="#000" />
+		</Panel>
+	</ClientPanel>
+</App>

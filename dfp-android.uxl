@@ -1,0 +1,5 @@
+<Package>
+<Extensions Backend="CPlusPlus" Condition="Android">
+/* Nothing yet */
+</Extensions>
+</Package>
